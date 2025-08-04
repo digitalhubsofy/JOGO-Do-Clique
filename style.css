@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 40px;
+  background-color: #111;
+  color: #fff;
+}
+
+#quadrado {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  margin: 40px auto;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#resultado {
+  font-size: 1.2em;
+  margin-top: 20px;
+}
